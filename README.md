@@ -8,7 +8,10 @@ good for starting up on new computer, or when you are using some strange compute
 for win7 fyi.. :D
 
 not so essential - as it contains my mix of wallpapers of black holes :O :)
-
+____________________________________________________
+TODO here:
+https://docs.google.com/spreadsheets/d/1VVUbCYX30TELAL6yiq7yyZzdFGD4i75KdHawDTisOhI/edit#gid=0
+____________________________________________________
 contains:
 [] PROGS:
  - control
