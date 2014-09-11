@@ -29,7 +29,9 @@ function MyDiff()
 endfunction
 
 set guifont=Consolas:h9:cDEFAULT "dobrý fonty
-colorscheme wombat "dobry barvy
+"colorscheme wombat "dobry barvy
+"colorscheme slate "dobry barvy
+colorscheme default
 
 
 :map <F1> :let @@=expand('<cword>')<CR> 

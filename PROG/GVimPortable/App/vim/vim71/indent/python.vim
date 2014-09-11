@@ -191,3 +191,10 @@ function GetPythonIndent(lnum)
 endfunction
 
 " vim:sw=2
+"
+" 2014_07_08 - tabbin'
+set tabstop=8
+set expandtab
+set shiftwidth=4
+set softtabstop=4
+" 
